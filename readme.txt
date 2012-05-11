@@ -51,7 +51,6 @@ R: http://pluginus.net/inpost-gallery/1
 == Screenshots ==
 
 1. In admin panel
-2. On front
 
 == Changelog ==
 
