@@ -1,0 +1,10 @@
+hr{ clear: both; }
+
+.thumbnails a
+{
+    display: block;
+    float: left;
+    margin: 4px;
+}
+.thumbnails a img{ border: solid 1px Black; }
+.thumbnails a:hover img{ border: solid 1px #aaa }
