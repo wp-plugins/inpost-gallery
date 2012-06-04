@@ -22,6 +22,9 @@ Upload images you want see in your post, insert shortcode that is under "InPost 
 
 
 ATTENTION:
+<strong>Upload folder moved to wp-content uploads and named as inpost-gallery-uploads</strong>
+
+
 <strong>If plugin after upgrading from 1.0.1 to 1.0.2 doesn work, please do this instructions in your wp database:</strong>
 
 * ALTER TABLE inpostgallery ADD sort INT(11) NOT NULL
