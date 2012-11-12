@@ -15,10 +15,10 @@ or <?php echo do_shortcode("[inpost_gallery post_id=1]") ?> in wp theme.
 Each gallery belongs to post or page. To start using this plugin simply install it. Now, in pages/posts appears panel "InPost Gallery".
 Upload images you want see in your post, insert shortcode that is under "InPost Gallery" panel.
 
-* [inpost_gallery post_id=1]
-* [inpost_gallery post_id=1 id=77,23,44,66]
-* [inpost_gallery post_id=1 random=5]
-* [inpost_gallery post_id=1 random=-1]
+* [inpost_gallery post_id=1 thumb_width=200 thumb_height=200]
+* [inpost_gallery post_id=1 id=77,23,44,66 thumb_width=200 thumb_height=200]
+* [inpost_gallery post_id=1 random=5 thumb_width=200 thumb_height=200]
+* [inpost_gallery post_id=1 random=-1 thumb_width=200 thumb_height=200]
 
 
 ATTENTION:
