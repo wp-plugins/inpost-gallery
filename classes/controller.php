@@ -86,7 +86,12 @@ class INPOSTGALLERY {
             }
         }
         
-        $data['inpost_gallery_data'] = $view_slides;
+         if(empty($view_slides)){
+            $data['inpost_gallery_data'] = $slides;
+        }else{
+            $data['inpost_gallery_data'] = $view_slides;
+        }
+		
         return self::render_html("front/shortcode", $data);
     }
 
