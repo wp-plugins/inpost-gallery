@@ -22,7 +22,7 @@ Upload images you want see in your post, insert shortcode that is under "InPost 
 
 
 ATTENTION:
-<strong>Set folder permissons for wp-content/plugins/inpost-gallery/inpost-gallery as 0777 by your ftp client</strong>
+<strong>Set folder permissons for wp-content/plugins/inpost-gallery/cache as 0777 by your ftp client</strong>
 
 
 == Installation ==
@@ -54,6 +54,7 @@ R: http://pluginus.net/mea/inpost-gallery/1
 == Screenshots ==
 
 1. In admin panel
+2. In admin panel
 
 == Changelog ==
 
