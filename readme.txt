@@ -21,10 +21,6 @@ Upload images you want see in your post, insert shortcode that is under "InPost 
 * [inpost_gallery post_id=1 random=-1 thumb_width=200 thumb_height=200]
 
 
-ATTENTION:
-<strong>Set folder permissons for wp-content/plugins/inpost-gallery/cache as 0777 by your ftp client</strong>
-
-
 == Installation ==
 
 = New Installations =
