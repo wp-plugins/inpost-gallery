@@ -59,7 +59,7 @@ R: http://pluginus.net/inpost-gallery
 == Changelog ==
 
 = 1.1.2 =
-Code fully rewritten. Added settings page <your_site>/wp-admin/options-general.php?page=inpost-gallery-settings. Able to switch of timthumb (recomend). Margin of thumbs on front are in settings. A lot of improvements.
+Code fully rewritten. Added settings page <your_site>/wp-admin/options-general.php?page=inpost-gallery-settings. Able to switch off timthumb (recomended). Margin of thumbs on front are in settings. A lot of improvements.
 
 = 1.1.1 =
 1 warning removed
