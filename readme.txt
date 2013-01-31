@@ -20,10 +20,10 @@ Upload images you want see in your post by button clicking, insert shortcode tha
 * [inpost_gallery post_id=1 random=5 thumb_width=200 thumb_height=200]
 * [inpost_gallery post_id=1 random=-1 thumb_width=200 thumb_height=200]
 
-thumb_width and thumb_height - works only in timthumb mode
-id=2,5,9,3 - out slides whith number (white number on thumb in admin)
-random=-1 - random slides and out all
-random=5 - random slides and out 5 of them
+* thumb_width and thumb_height - works only in timthumb mode
+* id=2,5,9,3 - out slides whith number (white number on thumb in admin)
+* random=-1 - random slides and out all
+* random=5 - random slides and out 5 of them
 
 == Installation ==
 
