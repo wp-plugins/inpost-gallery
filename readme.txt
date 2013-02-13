@@ -25,6 +25,8 @@ Upload images you want see in your post by button clicking, insert shortcode tha
 * random=-1 - random slides and out all
 * random=5 - random slides and out 5 of them
 
+For migration from 1.0.5 to 1.1.2 read instructions here: http://pluginus.net/inpost-gallery-migration-plugin/
+
 == Installation ==
 
 = New Installations =
