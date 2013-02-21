@@ -6,30 +6,34 @@ Requires at least: 3.0.0
 Tested up to: 3.5.1
 Stable tag: 1.1.3
 
-Set gallery in post, page or everywere on your site by shortcode. Good for photographers.
-Supports multiple image uploading and adding.
+Set gallery in post, page or everywere on your site by shortcode.
 
 == Description ==
-Set gallery everywere on your site using shortcodes like [inpost_gallery post_id=1 group=20] in post/page
-or <?php echo do_shortcode("[inpost_gallery post_id=1 group=20]") ?> in wp theme.
-Each gallery belongs to post or page, but you can dispay it where you want by shortcode. To start using this plugin simply install it. 
-Now, in pages and posts appears panel "InPost Gallery".
+
+Set gallery everywere on your site using shortcodes like [inpost_gallery post_id=1] in post
+or <?php echo do_shortcode("[inpost_gallery post_id=1]") ?> in wp theme.
+Each gallery belongs to post or page. To start using this plugin simply install it. Now, in pages and posts appears panel "InPost Gallery".
 Upload images you want see in your post by button clicking, insert shortcode that is under "InPost Gallery" panel.
 
-* [inpost_gallery post_id=1 group=20]
+* [inpost_gallery post_id=1 group=15]
 * [inpost_gallery post_id=1 thumb_width=200 thumb_height=200]
 * [inpost_gallery post_id=1 id=2,5,9,3 thumb_width=200 thumb_height=200]
 * [inpost_gallery post_id=1 random=5 thumb_width=200 thumb_height=200]
 * [inpost_gallery post_id=1 random=-1 thumb_width=200 thumb_height=200]
 
-
-* group - you can categorize gallery images by groups (numbers 1 - 100);
-* thumb_width and thumb_height - works only in timthumb mode;
-* id=2,5,9,3 - out slides whith number (white number on thumb in admin). Works if no group, group="all";
-* random=-1 - random slides and out all;
-* random=5 - shuffle slides and out 5 of them;
+* group - number of group to out
+* thumb_width and thumb_height - works only in timthumb mode
+* id=2,5,9,3 - out slides whith number (white number on thumb in admin)
+* random=-1 - random slides and out all
+* random=5 - random slides and out 5 of them
 
 == Installation ==
+
+= New Installations =
+0.      Download plugin and then go by link http://your_site/wp-admin/plugin-install.php?tab=upload
+	press "Install a plugin in .zip format", select inpost-gallery.zip, press "Install Now".
+
+OR
 
 1.	Download plugin archive in zip or gzipped tar format and
 	extract the files on your computer.
@@ -48,10 +52,6 @@ Upload images you want see in your post by button clicking, insert shortcode tha
 
 Q: Where can I see demo?
 R: http://pluginus.net/inpost-gallery
-
-Q: Where can reed news?
-R: http://pluginus.net/inpost-gallery-1-1-2-release/ , http://pluginus.net/inpost-gallery-1-1-3-release/
-
 
 == Screenshots ==
 
