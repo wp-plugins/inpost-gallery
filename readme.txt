@@ -1,20 +1,17 @@
 ﻿﻿=== InPost Gallery ===
 Contributors: RealMag777
 Donate link: http://www.pluginus.net/
-Tags: gallery, image, album, photo, photoalbum, photogallery, website, multiple uploading, pictures, post, plugin
+Tags: gallery, album, photo, photoalbum, photogallery, website, multiple, pictures, post, plugin
 Requires at least: 3.0.0
 Tested up to: 3.5.1
 Stable tag: 1.1.3
 
-Set gallery in post, page or everywere on your site by shortcode. Good for photographers.
-Supports multiple image uploading and adding.
+Set gallery in post, page or everywere on your site by shortcode. Good for photographers. Supports multiple image uploading and adding.
 
 == Description ==
 
-Set gallery everywere on your site using shortcodes like [inpost_gallery post_id=1 group=20] in post/page
-or <?php echo do_shortcode("[inpost_gallery post_id=1 group=20]") ?> in wp theme.
-Each gallery belongs to post or page, but you can dispay it where you want by shortcode. To start using this plugin simply install it. Now, in pages and posts appears panel "InPost Gallery".
-Upload images you want see in your post by button clicking, insert shortcode that is under "InPost Gallery" panel.
+Set gallery everywere on your site using shortcodes like [inpost_gallery post_id=1] in post/page or <?php echo do_shortcode("[inpost_gallery post_id=1]") ?> in wp theme.
+Each gallery belongs to post or page, but you can dispay it where you want by shortcode. To start using this plugin simply install it.
 
 * [inpost_gallery post_id=1 group=20]
 * [inpost_gallery post_id=1 thumb_width=200 thumb_height=200]
@@ -22,11 +19,11 @@ Upload images you want see in your post by button clicking, insert shortcode tha
 * [inpost_gallery post_id=1 random=5 thumb_width=200 thumb_height=200]
 * [inpost_gallery post_id=1 random=-1 thumb_width=200 thumb_height=200]
 
-* group - you can categorize gallery images by groups (numbers 1 - 100);
-* thumb_width and thumb_height - works only in timthumb mode;
-* id=2,5,9,3 - out slides whith number (white number on thumb in admin). Works if no group, group="all";
-* random=-1 - random slides and out all;
-* random=5 - shuffle slides and out 5 of them;
+* group - you can categorize gallery images by groups (numbers 1 - 100)
+* thumb_width and thumb_height - works only in timthumb mode
+* id=2,5,9,3 - out slides whith number (white number on thumb in admin). Works if no group, group="all"
+* random=-1 - random slides and out all
+* random=5 - shuffle slides and out 5 of them
 
 == Installation ==
 
@@ -54,8 +51,8 @@ OR
 Q: Where can I see demo?
 R: http://pluginus.net/inpost-gallery
 
-Q: Where can reed news?
-R: http://pluginus.net/inpost-gallery-1-1-2-release/ , http://pluginus.net/inpost-gallery-1-1-3-release/
+Q: Where can read news about plugin?
+R: http://pluginus.net/inpost-gallery-1-1-3-release/
 
 
 == Screenshots ==
@@ -67,7 +64,6 @@ R: http://pluginus.net/inpost-gallery-1-1-2-release/ , http://pluginus.net/inpos
 
 = 1.1.3 =
 2 big improvements: multiple image adding and categorizing by groups. Them both very convinient for photographers.
-See video here: http://pluginus.net/inpost-gallery-1-1-3-release/
 
 = 1.1.2 =
 Code fully rewritten. Added settings page <your_site>/wp-admin/options-general.php?page=inpost-gallery-settings. Able to switch of timthumb (recomend). Margin of thumbs on front are in settings. A lot of improvements.
@@ -91,7 +87,6 @@ Width of thumbnail is changeable.
 = 1.0.2 =
 Couple of bugs. Images sorting.
 
-
 = 1.0.1 =
 Plugin release. Operate all the basic functions.
 
@@ -113,6 +108,4 @@ WARRANTY. See the GNU General Public License for more details.
 If you are upgrading to v.1.1.2 and timthumb (plugin) works well, do not switch it off. Just set margins of front thumbs on settings page.
 
 == ToDo ==
-
-
 
