@@ -13,16 +13,17 @@ Set gallery everywere on your site using shortcodes like [inpost_gallery post_id
 Each gallery belongs to post or page, but you can dispay it where you want by shortcode. To start using this plugin simply install it.
 Good for photographers. Supports multiple image uploading and adding.
 
-[inpost_gallery post_id=1 group=20].
-[inpost_gallery post_id=1 thumb_width=200 thumb_height=200].
-[inpost_gallery post_id=1 id=2,5,9,3 thumb_width=200 thumb_height=200].
-[inpost_gallery post_id=1 random=5 thumb_width=200 thumb_height=200].
-[inpost_gallery post_id=1 random=-1 thumb_width=200 thumb_height=200].
-group - you can categorize gallery images by groups (numbers 1 - 100).
-thumb_width and thumb_height - works only in timthumb mode.
-id=2,5,9,3 - out slides whith number (white number on thumb in admin). Works if no group or group="all".
-random=-1 - random slides and out all.
-random=5 - shuffle slides and out 5 of them.
+* [inpost_gallery post_id=1 group=20].
+* [inpost_gallery post_id=1 thumb_width=200 thumb_height=200].
+* [inpost_gallery post_id=1 id=2,5,9,3 thumb_width=200 thumb_height=200].
+* [inpost_gallery post_id=1 random=5 thumb_width=200 thumb_height=200].
+* [inpost_gallery post_id=1 random=-1 thumb_width=200 thumb_height=200].
+
+* group - you can categorize gallery images by groups (numbers 1 - 100).
+* thumb_width and thumb_height - works only in timthumb mode.
+* id=2,5,9,3 - out slides whith number (white number on thumb in admin). Works if no group or group="all".
+* random=-1 - random slides and out all.
+* random=5 - shuffle slides and out 5 of them.
 
 
 
