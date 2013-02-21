@@ -1,4 +1,4 @@
-﻿=== InPost Gallery ===
+﻿﻿=== InPost Gallery ===
 Contributors: RealMag777
 Donate link: http://www.pluginus.net/
 Tags: gallery,image,album,foto,photo,photographer,photoalbum,photogallery,website,multiple,pictures,post,plugin
@@ -21,11 +21,11 @@ Upload images you want see in your post by button clicking, insert shortcode tha
 * [inpost_gallery post_id=1 random=5 thumb_width=200 thumb_height=200]
 * [inpost_gallery post_id=1 random=-1 thumb_width=200 thumb_height=200]
 
-* group - you can categorize gallery images by groups (numbers 1 - 100)
-* thumb_width and thumb_height - works only in timthumb mode
-* id=2,5,9,3 - out slides whith number (white number on thumb in admin)
-* random=-1 - random slides and out all
-* random=5 - random slides and out 5 of them
+* group - you can categorize gallery images by groups (numbers 1 - 100);
+* thumb_width and thumb_height - works only in timthumb mode;
+* id=2,5,9,3 - out slides whith number (white number on thumb in admin). Works if no group, group="all";
+* random=-1 - random slides and out all;
+* random=5 - shuffle slides and out 5 of them;
 
 == Installation ==
 
@@ -53,6 +53,10 @@ OR
 Q: Where can I see demo?
 R: http://pluginus.net/inpost-gallery
 
+Q: Where can reed news?
+R: http://pluginus.net/inpost-gallery-1-1-2-release/ , http://pluginus.net/inpost-gallery-1-1-3-release/
+
+
 == Screenshots ==
 
 1. In post/page panel
@@ -62,6 +66,7 @@ R: http://pluginus.net/inpost-gallery
 
 = 1.1.3 =
 2 big improvements: multiple image adding and categorizing by groups. Them both very convinient for photographers.
+See video here: http://pluginus.net/inpost-gallery-1-1-3-release/
 
 = 1.1.2 =
 Code fully rewritten. Added settings page <your_site>/wp-admin/options-general.php?page=inpost-gallery-settings. Able to switch of timthumb (recomend). Margin of thumbs on front are in settings. A lot of improvements.
@@ -107,6 +112,5 @@ WARRANTY. See the GNU General Public License for more details.
 If you are upgrading to v.1.1.2 and timthumb (plugin) works well, do not switch it off. Just set margins of front thumbs on settings page.
 
 == ToDo ==
-
 
 
