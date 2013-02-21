@@ -10,6 +10,7 @@ Set gallery in post, page or everywere on your site by shortcode. Good for photo
 Supports multiple image uploading and adding.
 
 == Description ==
+
 Set gallery everywere on your site using shortcodes like [inpost_gallery post_id=1 group=20] in post/page
 or <?php echo do_shortcode("[inpost_gallery post_id=1 group=20]") ?> in wp theme.
 Each gallery belongs to post or page, but you can dispay it where you want by shortcode. To start using this plugin simply install it. Now, in pages and posts appears panel "InPost Gallery".
