@@ -1,4 +1,4 @@
-=== InPost Gallery ===
+﻿=== InPost Gallery ===
 Contributors: RealMag777
 Donate link: http://www.pluginus.net/
 Tags: gallery, album, photo, photoalbum, photogallery, website, multiple, pictures, post, plugin
@@ -18,11 +18,13 @@ Good for photographers. Supports multiple image uploading and adding.
 * [inpost_gallery post_id=1 id=2,5,9,3 thumb_width=200 thumb_height=200].
 * [inpost_gallery post_id=1 random=5 thumb_width=200 thumb_height=200].
 * [inpost_gallery post_id=1 random=-1 thumb_width=200 thumb_height=200].
+* [inpost_gallery post_id=1 random=-1 thumb_width=200 thumb_height=200 border="solid 1px #000"].
 * group - you can categorize gallery images by groups (numbers 1 - 100).
 * thumb_width and thumb_height - works only in timthumb mode.
 * id=2,5,9,3 - out slides whith number (white number on thumb in admin). Works if no group or group="all".
 * random=-1 - random slides and out all.
 * random=5 - shuffle slides and out 5 of them.
+* border - set border around thumbnail image. Use CSS rule.
 
 
 
