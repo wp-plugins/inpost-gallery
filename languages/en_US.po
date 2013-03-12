@@ -1,0 +1,99 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in echo
+#: inpost-gallery/views/admin/post_panel.php:19
+msgid "Add slides"
+msgstr ""
+
+#. Text in echo
+#: inpost-gallery/views/admin/settings.php:19
+msgid "Admin thumb size"
+msgstr ""
+
+#. Text in echo
+#: inpost-gallery/views/admin/settings.php:25
+msgid "After sizes changing or timthumb switch off regenerate thumbnails."
+msgstr ""
+
+#. Text in function
+#: inpost-gallery/views/admin/post_panel.php:10
+msgid "All"
+msgstr ""
+
+#. Text in echo
+#: inpost-gallery/views/admin/settings.php:17
+msgid "Custom sizes (width x height)"
+msgstr ""
+
+#. Text in echo
+#: inpost-gallery/views/admin/meta_slide_item.php:15
+msgid "Delete slide"
+msgstr ""
+
+#. Text in echo
+#: inpost-gallery/views/admin/settings.php:10
+msgid "Don`t use timthumb"
+msgstr ""
+
+#. Text in echo
+#: inpost-gallery/views/admin/meta_slide_item.php:14
+msgid "Edit title"
+msgstr ""
+
+#. Text in echo
+#: inpost-gallery/index.php:66
+msgid "Enter slide title"
+msgstr ""
+
+#. Text in echo
+#: inpost-gallery/views/admin/settings.php:30
+msgid "Front thumb margin bottom"
+msgstr ""
+
+#. Text in echo
+#: inpost-gallery/views/admin/settings.php:29
+msgid "Front thumb margin left"
+msgstr ""
+
+#. Text in echo
+#: inpost-gallery/views/admin/settings.php:21
+msgid "Front thumb size"
+msgstr ""
+
+#. Text in echo
+#: inpost-gallery/views/admin/post_panel.php:12
+msgid "Group"
+msgstr ""
+
+#. Text in echo
+#: inpost-gallery/views/admin/settings.php:12
+msgid "If timthumb doesn work on your server or you doesn love it, check this!"
+msgstr ""
+
+#. Text in echo
+#: inpost-gallery/views/admin/settings.php:4
+msgid "InPost Gallery Settings"
+msgstr ""
+
+#. Text in echo
+#: inpost-gallery/index.php:65
+msgid "Loading"
+msgstr ""
+
+#. Text in echo
+#: inpost-gallery/views/admin/post_panel.php:7
+msgid "Random"
+msgstr ""
+
+#. Text in echo
+#: inpost-gallery/views/admin/settings.php:35
+msgid "Save settings"
+msgstr ""
+
+#. Text in echo
+#: inpost-gallery/index.php:67
+msgid "Settings have been saved"
+msgstr ""
