@@ -10,7 +10,7 @@ Stable tag: 1.1.5
 == Description ==
 
 Set gallery everywere on your site using shortcodes like [inpost_gallery post_id=1] in post (page and custom post types optional) or <?php echo do_shortcode("[inpost_gallery post_id=1]") ?> in theme.
-Each gallery belongs to post or page, but you can dispay it where you want by shortcode. To start using this plugin simply install it.
+Each gallery belongs to post or page or custom type page, but you can dispay it where you want by shortcode. To start using this plugin simply install it.
 Good for photographers. Supports multiple image uploading and adding.
 
 * [inpost_gallery post_id=1 group=20].
@@ -49,7 +49,7 @@ R: http://pluginus.net/inpost-gallery
 == Changelog ==
 
 = 1.1.5 =
-In <your_site>/wp-admin/options-general.php?page=inpost-gallery-settings new ability to check custom post types (post and page too) where you want to use plugin.
+In <your_site>/wp-admin/options-general.php?page=inpost-gallery-settings new ability to set custom post types (post and page too) where you want to use plugin.
 
 = 1.1.4 =
 Added attribute in shortcode "border". Example: [inpost_gallery post_id=327 random=-1 thumb_width=150 thumb_height=150 border="solid 2px #000"]. Useful to set border around of image by CCS syntax.
