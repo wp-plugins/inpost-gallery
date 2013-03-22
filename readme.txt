@@ -49,7 +49,7 @@ R: http://pluginus.net/inpost-gallery
 == Changelog ==
 
 = 1.1.5 =
-In http://<your_site>/wp-admin/options-general.php?page=inpost-gallery-settings new ability to check custom post types (post and page too) where you want to use plugin.
+In <your_site>/wp-admin/options-general.php?page=inpost-gallery-settings new ability to check custom post types (post and page too) where you want to use plugin.
 
 = 1.1.4 =
 Added attribute in shortcode "border". Example: [inpost_gallery post_id=327 random=-1 thumb_width=150 thumb_height=150 border="solid 2px #000"]. Useful to set border around of image by CCS syntax.
