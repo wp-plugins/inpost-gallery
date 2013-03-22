@@ -1,7 +1,7 @@
 ﻿=== InPost Gallery ===
 Contributors: RealMag777
 Donate link: http://www.pluginus.net/
-Tags: gallery, album, photo, photoalbum, photogallery, photographer, website, multiple, pictures, post, plugin, custom
+Tags: gallery, album, photo, photoalbum, photogallery, custom, website, multiple, pictures, post, plugin
 Requires at least: 3.5.0
 Tested up to: 3.5.1
 Stable tag: 1.1.5
@@ -86,7 +86,7 @@ Plugin release. Operate all the basic functions.
 
 == License ==
 
-This plugin is copyright pluginus.net © 2012 with [GNU General Public License][] by realmag777.
+This plugin is copyright pluginus.net ɠ2012 with [GNU General Public License][] by realmag777.
 
 This program is free software; you can redistribute it and/or modify it under
 the terms of the [GNU General Public License][] as published by the Free
