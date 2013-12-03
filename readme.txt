@@ -1,7 +1,7 @@
 ﻿=== InPost Gallery ===
 Contributors: RealMag777
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=rostislavsofronov%40gmail%2ecom&lc=US&item_name=PluginusNet&item_number=3&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
-Tags: gallery, album, photo, photoalbum, photogallery, custom, website, multiple, pictures, post, page, plugin
+Tags: gallery, photo-gallery, album, photo, photoalbum, photogallery, custom, website, multiple, pictures, post, page, plugin
 Requires at least: 3.5.0
 Tested up to: 3.7.1
 Stable tag: 2.0.2
