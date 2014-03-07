@@ -1,9 +1,8 @@
 <?php if (!defined('ABSPATH')) die('No direct access allowed'); ?>
 <?php
-wp_enqueue_style("fancybox", PluginusNet_InpostGallery::get_application_uri() . 'js/sliders/fancybox/jquery.fancybox.css');
-wp_enqueue_style("fancybox_helper_b", PluginusNet_InpostGallery::get_application_uri() . 'js/sliders/fancybox/helpers/jquery.fancybox-buttons.css');
-wp_enqueue_script('fancybox', PluginusNet_InpostGallery::get_application_uri() . 'js/sliders/fancybox/jquery.fancybox.pack.js', array('jquery'));
-wp_enqueue_script('fancybox_helper_b', PluginusNet_InpostGallery::get_application_uri() . 'js/sliders/fancybox/helpers/jquery.fancybox-buttons.js', array('jquery'));
+wp_enqueue_style("fancybox", PluginusNet_InpostGallery::get_application_uri() . 'js/sliders/fancybox/jquery.fancybox-1.3.4.css');
+wp_enqueue_script('fancybox', PluginusNet_InpostGallery::get_application_uri() . 'js/sliders/fancybox/jquery.fancybox-1.3.4.pack.js', array('jquery'));
+wp_enqueue_script('mousewheel', PluginusNet_InpostGallery::get_application_uri() . 'js/sliders/fancybox/helpers/jquery.mousewheel-3.0.4.pack.js', array('jquery'));
 wp_enqueue_script("easing", PluginusNet_InpostGallery::get_application_uri() . 'js/jquery.easing.1.3.min.js', array('jquery'));
 //***
 $is_expression = false;
@@ -105,11 +104,7 @@ $counter = 0;
         jQuery(".fancybox_<?php echo $unique_id ?>").fancybox({
             openEffect: 'elastic',
             closeEffect: 'elastic',
-            padding: 0,
-            closeBtn: false,
-            helpers: {
-                buttons: {}
-            }
+            padding: 0
         });
     });
 </script>
