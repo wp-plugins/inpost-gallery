@@ -4,11 +4,11 @@
   Plugin URI: http://pluginus.net/inpost-gallery/
   Description: Insert Gallery in post, page and custom post types just in two clicks
   Author: Rostislav Sofronov <realmag777>
-  Version: 2.0.5
+  Version: 2.0.6
   Author URI: http://www.pluginus.net/
  */
 
-//06-03-2014
+//07-03-2014
 class PluginusNet_InpostGallery {
 
     public static $shortcodes = array();
