@@ -1,7 +1,7 @@
 <?php if (!defined('ABSPATH')) die('No direct access allowed'); ?>
 <div id="pn_shortcode_template" class="pn_shortcode_template clearfix">
 
-    <h3>Fancy Box by http://fancyapps.com/</h3>
+    <h3>Fancy Box by http://fancybox.net/ GPL</h3>
 
     <div class="one-half">
         <?php
