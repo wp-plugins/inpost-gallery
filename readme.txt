@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=rosti
 Tags: gallery, photo-gallery, album, photo, photoalbum, photogallery, custom, website, multiple, pictures, post, page, plugin
 Requires at least: 3.5.0
 Tested up to: 3.8.1
-Stable tag: 2.0.5
+Stable tag: 2.0.6
 
 
 == Description ==
@@ -46,6 +46,9 @@ R: http://pluginus.net/inpost-gallery#inpost_gallery_demo
 
 
 == Changelog ==
+
+= 2.0.6 =
+//print_r in shortcode pixedelic camera
 
 = 2.0.5 =
 Added special expressions for selecting output images, Read more here: http://pluginus.net/inpost-gallery-2-0-5-release .
