@@ -62,7 +62,7 @@ if (!$is_expression) {
     }
 }
 
-print_r($slides);
+//print_r($slides);
 ?>
 
 <script type="text/javascript">
